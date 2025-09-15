@@ -43,6 +43,18 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    // ADD THIS SECTION TO YOUR APP.JSON
+    "extra": {
+      "firebase": {
+        "apiKey": "AIzaSyABxiLXiI4_Z8MRKv5KnQdBAONbvsrF_iU",
+        "authDomain": "auth-9bcc6.firebaseapp.com",
+        "projectId": "auth-9bcc6",
+        "storageBucket": "uth-9bcc6.firebasestorage.app",
+        "messagingSenderId": "677162616026",
+        "appId": "1:677162616026:web:72c6225c516cc2b8a691e3",
+        "measurementId": "G-45WH6JZ435"
+      }
     }
   }
 }
